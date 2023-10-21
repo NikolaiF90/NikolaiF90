@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prince F90</h1>
+<h1 align="center">Prince F90's Profile</h1>
 <h3 align="center">A regular guy, who likes to code. Because always wondered at everything</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolaif90&label=Profile%20views&color=0e75b6&style=flat" alt="nikolaif90" /> </p>
