@@ -7,8 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Contact_Me-GMAIL-red?style=plastic&logo=gmail&logoColor=Red
 )](https://mail.google.com/) **NikolaiPrinceF90@gmail.com**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NikolaiF90&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+## 📌Pinned Projects
 
 ### [Ascendancy Wars SP](https://github.com/NikolaiF90/Ascendancy_Wars_SP.Altis)
 * Actively working on this repository.
