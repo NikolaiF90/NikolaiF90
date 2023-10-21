@@ -2,8 +2,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=NikolaiF90&icon=6&color=9)](https://visitcount.itsvg.in)  
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PrinceF90) [![Gmail](https://img.shields.io/badge/Contact_Me-GMAIL-red?style=plastic&logo=gmail&logoColor=Red
-)](https://mail.google.com/mail/?view=cm&source=mailto&to=nikolaiprincef90)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PrinceF90)  
+
+[![Gmail](https://img.shields.io/badge/Contact_Me-GMAIL-red?style=plastic&logo=gmail&logoColor=Red
+)](https://mail.google.com/) **NikolaiPrinceF90@gmail.com**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NikolaiF90&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
