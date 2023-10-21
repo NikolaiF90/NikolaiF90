@@ -4,7 +4,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PrinceF90)
 
-[![Gmail](https://img.shields.io/badge/Contact_Me-GMAIL-red?style=for-the-badge&logo=gmail&logoColor=Red
+[![Gmail](https://img.shields.io/badge/Contact_Me-GMAIL-red?style=plastic&logo=gmail&logoColor=Red
 )](NikolaiPrinceF90@gmail.com)
 
 ## 🏆 GitHub Trophies
