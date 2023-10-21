@@ -12,7 +12,7 @@
 ### [Ascendancy Wars SP](https://github.com/NikolaiF90/Ascendancy_Wars_SP.Altis)
 * Actively working on this repository.
 * Any help is welcomed.  
-[![](https://img.shields.io/badge/sqf-Arma_3-teal?style=plastic&logo=visualstudio&logoColor=White)](https://github.com/topics/arma3) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![](https://img.shields.io/badge/sqf-Arma_3-teal?style=plastic&logo=visualstudio&logoColor=White)](https://github.com/topics/arma3) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 
 ### [All Projects](https://github.com/NikolaiF90/)
 * All projects and repositories available at [my profile](https://github.com/NikolaiF90/).  
