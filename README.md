@@ -1,8 +1,8 @@
 <h1 align="center">Prince F90's Profile</h1>
 
-[![](https://visitcount.itsvg.in/api?id=NikolaiF90&icon=6&color=9)](https://visitcount.itsvg.in) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PrinceF90)
+[![](https://visitcount.itsvg.in/api?id=NikolaiF90&icon=6&color=9)](https://visitcount.itsvg.in)  
 
-[![Gmail](https://img.shields.io/badge/Contact_Me-GMAIL-red?style=plastic&logo=gmail&logoColor=Red
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PrinceF90) [![Gmail](https://img.shields.io/badge/Contact_Me-GMAIL-red?style=plastic&logo=gmail&logoColor=Red
 )](NikolaiPrinceF90@gmail.com)
 
 ## 🏆 GitHub Trophies
