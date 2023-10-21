@@ -1,28 +1,26 @@
 <h1 align="center">Prince F90's Profile</h1>
-<h3 align="center">A regular guy, who likes to code. Because always wondered at everything</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolaif90&label=Profile%20views&color=0e75b6&style=flat" alt="nikolaif90" /> </p>
+[![](https://visitcount.itsvg.in/api?id=NikolaiF90&icon=6&color=9)](https://visitcount.itsvg.in)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolaif90" alt="nikolaif90" /></a> </p>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PrinceF90)
 
-- 🔭 I’m currently working on [Ascendancy Wars SP](https://github.com/NikolaiF90/Ascendancy_Wars_SP.Altis)
+[![Gmail]([https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=Red&link=NikolaiPrinceF90%40gmail.com
+)](NikolaiPrinceF90@gmail.com)
 
-- 🤝 I’m looking for help with [Ascendancy Wars SP](https://github.com/NikolaiF90/Ascendancy_Wars_SP.Altis)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NikolaiF90&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-- 👨‍💻 All of my projects are available at [https://github.com/NikolaiF90/](https://github.com/NikolaiF90/)
+* Currently working on [Ascendancy Wars SP](https://github.com/NikolaiF90/Ascendancy_Wars_SP.Altis). Any help is welcomed.
 
-- 📝 I regularly write articles on [Github](Github)
+* All of my projects are available at [My Profile](https://github.com/NikolaiF90/)
 
-- 📫 How to reach me **NikolaiPrinceF90@gmail.com**
+![](https://github-readme-stats.vercel.app/api?username=NikolaiF90&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NikolaiF90&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiF90&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/princef90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="princef90" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NikolaiF90&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaif90&show_icons=true&locale=en&layout=compact" alt="nikolaif90" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaif90&show_icons=true&locale=en" alt="nikolaif90" /></p>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
