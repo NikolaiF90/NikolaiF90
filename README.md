@@ -10,9 +10,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NikolaiF90&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-* Currently working on [Ascendancy Wars SP](https://github.com/NikolaiF90/Ascendancy_Wars_SP.Altis). Any help is welcomed.
+### Currently working on [Ascendancy Wars SP](https://github.com/NikolaiF90/Ascendancy_Wars_SP.Altis). Any help is welcomed.
 
-* All of my projects are available at [My Profile](https://github.com/NikolaiF90/)
+### All of my projects are available at [my profile](https://github.com/NikolaiF90/)
 
 ![](https://github-readme-stats.vercel.app/api?username=NikolaiF90&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NikolaiF90&theme=react&hide_border=false)<br/>
