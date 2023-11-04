@@ -1,6 +1,6 @@
 <h1 align="center">Nikolai F90's Profile</h1>
 
-[![](https://visitcount.itsvg.in/api?id=PrinceF90&label=Views&color=9&icon=6&pretty=true)](https://visitcount.itsvg.in)
+[![Hits](https://hits.sh/github.com/NikolaiF90.svg?style=plastic&label=Profile%20Views&extraCount=33&color=aeebe5&labelColor=42684c&logo=github)](https://hits.sh/github.com/NikolaiF90/)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PrinceF90)  
 
