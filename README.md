@@ -1,6 +1,6 @@
 <h1 align="center">Nikolai F90's Profile</h1>
 
-[![Hits](https://hits.sh/github.com/NikolaiF90.svg?style=plastic&label=Profile%20Views&extraCount=33&color=aeebe5&labelColor=42684c&logo=github)](https://hits.sh/github.com/NikolaiF90/)
+[![Hits](https://hits.sh/github.com/NikolaiF90.svg?style=plastic&label=Profile%20Views&extraCount=33&color=619380&logo=github)](https://hits.sh/github.com/NikolaiF90/)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PrinceF90)  
 
