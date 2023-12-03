@@ -15,6 +15,7 @@
 * In active development. Any help is welcomed.
 * Arma 3 Single Player Mission focused on strategy and tactics where every decision matters
 * Not a guerrila simulator, but you can use guerrila tactics if you wish to.
+[![](https://img.shields.io/badge/sqf-Arma_3-teal?style=plastic&logo=visualstudio&logoColor=White)](https://github.com/topics/arma3) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 
 ### [F90 Simple Shop System](https://github.com/NikolaiF90/F90SimpleShop)
 Script that enables ARMA 3 mission maker to easily implement a shop system in their custom mission.
