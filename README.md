@@ -1,12 +1,13 @@
 <h1 align="center">Nikolai F90's Profile</h1>
 
 [![Hits](https://hits.sh/github.com/NikolaiF90.svg?style=plastic&label=Profile%20Views&extraCount=33&color=619380&logo=github)](https://hits.sh/github.com/NikolaiF90/)
-[![Static Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-teal?style=plastic&logo=buymeacoffee&labelColor=black)](https://www.buymeacoffee.com/princef90)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-teal?style=plastic&logo=buymeacoffee&labelColor=black)](https://www.buymeacoffee.com/princef90)
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PrinceF90)  
+[![Youtube PrinceF90](https://img.shields.io/badge/Youtube-PrinceF90-black?style=plastic&logo=youtube&labelColor=darkred)](https://www.youtube.com/@PrinceF90)
 
 [![Gmail](https://img.shields.io/badge/Contact_Me-GMAIL-red?style=plastic&logo=gmail&logoColor=Red
-)](https://mail.google.com/) **NikolaiPrinceF90@gmail.com**
+)](https://mail.google.com/)  
+**NikolaiPrinceF90@gmail.com**
 
 ## 📌Pinned Projects
 
