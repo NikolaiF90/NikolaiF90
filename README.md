@@ -1,39 +1,38 @@
-<h1 align="center">Nikolai F90's Profile</h1>
+<h1 align="center">Nikolai F90</h1>
 
-[![Hits](https://hits.sh/github.com/NikolaiF90.svg?style=plastic&label=Profile%20Views&extraCount=33&color=619380&logo=github)](https://hits.sh/github.com/NikolaiF90/)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-teal?style=plastic&logo=buymeacoffee&labelColor=black)](https://www.buymeacoffee.com/princef90)
+<p align="center">
+  <a href="https://hits.sh/github.com/NikolaiF90"><img src="https://hits.sh/github.com/NikolaiF90.svg?style=plastic&label=Profile%20Views&extraCount=33&color=619380&logo=github" /></a>
+  <a href="https://www.buymeacoffee.com/princef90"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-teal?style=plastic&logo=buymeacoffee&labelColor=black" /></a>
+</p>
 
-[![Youtube PrinceF90](https://img.shields.io/badge/Youtube-PrinceF90-black?style=plastic&logo=youtube&labelColor=darkred)](https://www.youtube.com/@PrinceF90)
+<p align="center">
+  <a href="https://www.youtube.com/@PrinceF90"><img src="https://img.shields.io/badge/Youtube-PrinceF90-black?style=plastic&logo=youtube&labelColor=darkred" /></a>
+  <a href="https://mail.google.com/"><img src="https://img.shields.io/badge/Contact_Me-GMAIL-red?style=plastic&logo=gmail&logoColor=Red" /></a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Contact_Me-GMAIL-red?style=plastic&logo=gmail&logoColor=Red
-)](https://mail.google.com/)  
-**NikolaiPrinceF90@gmail.com**
+---
 
-## 📌Pinned Projects
+I build tools for AI Dungeon's scripting community. Started in Arma 3 — C++, C#, SQF — learned logic the hard way, carried the principles forward. Everything I build is designed around one rule: **Reusable. Ideal. Maintainable.**
 
-### [Ascendancy Wars SP](https://github.com/NikolaiF90/Ascendancy_Wars_SP.Altis)
-* In active development. Any help is welcomed.
-* Arma 3 Single Player Mission focused on strategy and tactics where every decision matters
-* Not a guerrila simulator, but you can use guerrila tactics if you wish to.
+---
 
-[![](https://img.shields.io/badge/sqf-Arma_3-teal?style=plastic&logo=visualstudio&logoColor=White)](https://github.com/topics/arma3) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+## 🔧 Current Focus
 
-### [F90 Simple Shop System](https://github.com/NikolaiF90/F90SimpleShop)
-Script that enables ARMA 3 mission maker to easily implement a shop system in their custom mission.  
-[![](https://img.shields.io/badge/sqf-Arma_3-teal?style=plastic&logo=visualstudio&logoColor=White)](https://github.com/topics/arma3) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+### [F90 API](https://github.com/NikolaiF90/F90API)
+A unified scripting library for AI Dungeon. Run multiple scripts together without merging, conflicts, or compatibility headaches. The foundation other scripts build on.
 
-### [All Projects](https://github.com/NikolaiF90/)
-* All projects and repositories available at [my profile](https://github.com/NikolaiF90?tab=repositories).
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://github.com/NikolaiF90/F90API)
 
-[![](https://img.shields.io/badge/sqf-Arma_3-teal?style=plastic&logo=visualstudio&logoColor=White)](https://github.com/topics/arma3) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
+---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+## 🛠️ Languages
 
-![](https://github-profile-trophy.vercel.app/?username=NikolaiF90&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=NikolaiF90&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NikolaiF90&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiF90&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NikolaiF90&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=NikolaiF90&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NikolaiF90&theme=react&hide_border=false)
